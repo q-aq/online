@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "\u65B0\u5EFA\u914D\u7F6E\u6587\u4EF6",
+    "Projects": [
+      {
+        "Name": "Client\\Client.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "server\\server.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      }
+    ]
+  }
+]

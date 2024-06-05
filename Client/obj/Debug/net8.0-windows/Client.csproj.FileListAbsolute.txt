@@ -1,0 +1,17 @@
+F:\text.c\c#\OnLine\Client\bin\Debug\net8.0-windows\Client.exe
+F:\text.c\c#\OnLine\Client\bin\Debug\net8.0-windows\Client.deps.json
+F:\text.c\c#\OnLine\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+F:\text.c\c#\OnLine\Client\bin\Debug\net8.0-windows\Client.dll
+F:\text.c\c#\OnLine\Client\bin\Debug\net8.0-windows\Client.pdb
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\Client.Form1.resources
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\Client.dll
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\refint\Client.dll
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\Client.pdb
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\ref\Client.dll
+F:\text.c\c#\OnLine\Client\obj\Debug\net8.0-windows\Client.Properties.Resources.resources
